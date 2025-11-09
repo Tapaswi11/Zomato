@@ -1,5 +1,6 @@
 # Zomato
 Zomato is a restaurant search and discovery service. Operating in several countries worldwide, it provides information and reviews of various restaurants. The owners of Zomato, want to unearthe the hidden anomalies in their business data. The final objective is to analyse the data in a way which helps them to accurately judge their business performance.The clients want to create a consolidated and interactive PowerBIreport from where they caneasily analyse the following information.
+Tool Used : Power Bi
 
 ## Project Requirement
 1) Total number of restaurants across Continents, Countries andCities.
